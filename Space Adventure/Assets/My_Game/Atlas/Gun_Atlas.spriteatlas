@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gun_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 679883d30104806419afce8a4ccfd1d7, type: 3}
+    - {fileID: 2800000, guid: f7b88ce22c238e94e9f1432c7afe9900, type: 3}
+    - {fileID: 2800000, guid: 7188cf69a4cc6964385b1b093206673d, type: 3}
+    - {fileID: 2800000, guid: 3b713741bb3d4f24aaea68a7bbb10c40, type: 3}
+    - {fileID: 2800000, guid: a0916401b500d574dafd47c7e6e70d60, type: 3}
+    - {fileID: 2800000, guid: aaec7d72162a2c54f84f121b8c5bf4e3, type: 3}
+    - {fileID: 2800000, guid: 9d580454f3da39443ac0ee5d49f1898c, type: 3}
+    - {fileID: 2800000, guid: 01a096e6b671a2a45b2bb932061f6ba1, type: 3}
+    - {fileID: 2800000, guid: 6e6c7fe7b39519b46bb6aff346408ac1, type: 3}
+    - {fileID: 2800000, guid: 36606b3341a73184490c05ac2307a46b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a0916401b500d574dafd47c7e6e70d60, type: 3}
+  - {fileID: 21300000, guid: 3b713741bb3d4f24aaea68a7bbb10c40, type: 3}
+  - {fileID: 21300000, guid: aaec7d72162a2c54f84f121b8c5bf4e3, type: 3}
+  - {fileID: 21300000, guid: f7b88ce22c238e94e9f1432c7afe9900, type: 3}
+  - {fileID: 21300000, guid: 36606b3341a73184490c05ac2307a46b, type: 3}
+  - {fileID: 21300000, guid: 679883d30104806419afce8a4ccfd1d7, type: 3}
+  - {fileID: 21300000, guid: 9d580454f3da39443ac0ee5d49f1898c, type: 3}
+  - {fileID: 21300000, guid: 01a096e6b671a2a45b2bb932061f6ba1, type: 3}
+  - {fileID: 21300000, guid: 6e6c7fe7b39519b46bb6aff346408ac1, type: 3}
+  - {fileID: 21300000, guid: 7188cf69a4cc6964385b1b093206673d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - shotgun
+  - pistol
+  - Pistol_FrontBack
+  - bullet_shotgun
+  - small_reload
+  - bullet_pistol
+  - ShotGun_Front
+  - machineGun_Front
+  - big_reload
+  - machine_gun
+  m_RenderDataMap: {}
+  m_Tag: Gun_Atlas
+  m_IsVariant: 0

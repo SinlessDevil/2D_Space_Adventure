@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Structure_2Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0f099ccd816c999469ad30b64d4f421a, type: 3}
+    - {fileID: 2800000, guid: 003118d3f5c27bf4d96aacecb110f501, type: 3}
+    - {fileID: 2800000, guid: d901e772c90f66f46a0124e635cef703, type: 3}
+    - {fileID: 2800000, guid: 741e9f61fba9e484895bd55f01aab302, type: 3}
+    - {fileID: 2800000, guid: 71619d9552cce544ab4a0f724f2b851d, type: 3}
+    - {fileID: 2800000, guid: 43b41e8e8692f214684f699bf7d86ec4, type: 3}
+    - {fileID: 2800000, guid: 6acbe0b55a343f24dae6b2b3f34dab5d, type: 3}
+    - {fileID: 2800000, guid: acdffad6455eab648be0ec9ec8bda63a, type: 3}
+    - {fileID: 2800000, guid: a4a000df0d7d5414e8ea409bb5aa4cd1, type: 3}
+    - {fileID: 2800000, guid: 0753d8199188ba94a8d481b318f53117, type: 3}
+    - {fileID: 2800000, guid: bd879dd4f442a984096f5859e5f2b501, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 741e9f61fba9e484895bd55f01aab302, type: 3}
+  - {fileID: 21300000, guid: d901e772c90f66f46a0124e635cef703, type: 3}
+  - {fileID: 21300000, guid: 003118d3f5c27bf4d96aacecb110f501, type: 3}
+  - {fileID: 21300000, guid: bd879dd4f442a984096f5859e5f2b501, type: 3}
+  - {fileID: 21300000, guid: 71619d9552cce544ab4a0f724f2b851d, type: 3}
+  - {fileID: 21300000, guid: 6acbe0b55a343f24dae6b2b3f34dab5d, type: 3}
+  - {fileID: 21300000, guid: acdffad6455eab648be0ec9ec8bda63a, type: 3}
+  - {fileID: 21300000, guid: 0753d8199188ba94a8d481b318f53117, type: 3}
+  - {fileID: 21300000, guid: 0f099ccd816c999469ad30b64d4f421a, type: 3}
+  - {fileID: 21300000, guid: 43b41e8e8692f214684f699bf7d86ec4, type: 3}
+  - {fileID: 21300000, guid: a4a000df0d7d5414e8ea409bb5aa4cd1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - canopy
+  - roof
+  - house
+  - Medallion
+  - Arch_Portal
+  - Component_Medallion_2
+  - Component_Medallion_3
+  - Door
+  - small_house
+  - Component_Medallion_1
+  - Key
+  m_RenderDataMap: {}
+  m_Tag: Structure_2Atlas
+  m_IsVariant: 0

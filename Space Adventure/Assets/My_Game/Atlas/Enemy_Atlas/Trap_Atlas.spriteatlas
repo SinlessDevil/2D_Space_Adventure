@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Trap_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4ba583080d7388247a2fb60d78663b17, type: 3}
+    - {fileID: 2800000, guid: 8966784b0fdf2a7478d1f624c6b55e10, type: 3}
+    - {fileID: 2800000, guid: 17ec9f4bc55b4f74984541cf42caa547, type: 3}
+    - {fileID: 2800000, guid: 53489a98c5008f548bc281bead10cc58, type: 3}
+    - {fileID: 2800000, guid: 45e1e0f2fe790a54e8cb51ad7e018f95, type: 3}
+    - {fileID: 2800000, guid: 3d0c342b978dce84d866d403fc4f49df, type: 3}
+    - {fileID: 2800000, guid: 353601934369b3642afcdd6ef042606e, type: 3}
+    - {fileID: 2800000, guid: c5e370196fa786343bfc6c950ac27d65, type: 3}
+    - {fileID: 2800000, guid: e7e8d634887860a4b94442984f4ad233, type: 3}
+    - {fileID: 2800000, guid: 1fa405b717d4ea548ae55268b2065c40, type: 3}
+    - {fileID: 2800000, guid: f29350d33dbd9714eadcfa0153956ec1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 45e1e0f2fe790a54e8cb51ad7e018f95, type: 3}
+  - {fileID: 21300000, guid: 353601934369b3642afcdd6ef042606e, type: 3}
+  - {fileID: 21300000, guid: f29350d33dbd9714eadcfa0153956ec1, type: 3}
+  - {fileID: 21300000, guid: e7e8d634887860a4b94442984f4ad233, type: 3}
+  - {fileID: 21300000, guid: 1fa405b717d4ea548ae55268b2065c40, type: 3}
+  - {fileID: 21300000, guid: 4ba583080d7388247a2fb60d78663b17, type: 3}
+  - {fileID: 21300000, guid: 53489a98c5008f548bc281bead10cc58, type: 3}
+  - {fileID: 21300000, guid: c5e370196fa786343bfc6c950ac27d65, type: 3}
+  - {fileID: 21300000, guid: 3d0c342b978dce84d866d403fc4f49df, type: 3}
+  - {fileID: 21300000, guid: 8966784b0fdf2a7478d1f624c6b55e10, type: 3}
+  - {fileID: 21300000, guid: 17ec9f4bc55b4f74984541cf42caa547, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Component_CrossBown_2
+  - Component_CrossBown_5
+  - Component_bear_trap_3
+  - Component_bear_trap_1
+  - Component_bear_trap_2
+  - Boss_Trap
+  - Trap_4
+  - CrossBown_bolt
+  - Component_CrossBown_4
+  - Trap_1
+  - Trap_2
+  m_RenderDataMap: {}
+  m_Tag: Trap_Atlas
+  m_IsVariant: 0

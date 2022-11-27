@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Inventory_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2c9b008eb449ca44886bded0a9f31454, type: 3}
+    - {fileID: 2800000, guid: 5ee564be5cf0e124596234891b6589ac, type: 3}
+    - {fileID: 2800000, guid: 565593402ce6c8640b76c78487faca7e, type: 3}
+    - {fileID: 2800000, guid: 758a1a852b294f44cbab423b2bc0f92c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 565593402ce6c8640b76c78487faca7e, type: 3}
+  - {fileID: 21300000, guid: 758a1a852b294f44cbab423b2bc0f92c, type: 3}
+  - {fileID: 21300000, guid: 2c9b008eb449ca44886bded0a9f31454, type: 3}
+  - {fileID: 21300000, guid: 5ee564be5cf0e124596234891b6589ac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Open_Chest
+  - Slot
+  - Close
+  - Lock_Chest
+  m_RenderDataMap: {}
+  m_Tag: Inventory_Atlas
+  m_IsVariant: 0

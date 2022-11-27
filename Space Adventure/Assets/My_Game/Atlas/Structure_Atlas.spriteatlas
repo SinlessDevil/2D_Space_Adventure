@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Structure_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dfd691a5daac20046a0e68dbaa036da4, type: 3}
+    - {fileID: 2800000, guid: d2a6d2bd2004de04db023542bbbaa8e1, type: 3}
+    - {fileID: 2800000, guid: 42e98240c96665f468567bafa57d4abb, type: 3}
+    - {fileID: 2800000, guid: 25137da0a69b6234aa9442d51017f2fa, type: 3}
+    - {fileID: 2800000, guid: 6bc9475392bcc44408da9d744871c1ee, type: 3}
+    - {fileID: 2800000, guid: 5f1e5505a975e2044b42f7ccbfb1132a, type: 3}
+    - {fileID: 2800000, guid: d2e685a3450ad2a4eb49b6c41911bddd, type: 3}
+    - {fileID: 2800000, guid: 1cfa54cc882da1547a27d72475e09fab, type: 3}
+    - {fileID: 2800000, guid: 54288926f44a7f245932b8e64674c3fc, type: 3}
+    - {fileID: 2800000, guid: 27bf8a47da36db2468643af74c5375e5, type: 3}
+    - {fileID: 2800000, guid: 04f2789a857111348a22f1774542b05e, type: 3}
+    - {fileID: 2800000, guid: 9287709f2021f2646a233906aecaf9de, type: 3}
+    - {fileID: 2800000, guid: 0a4535ddcb2f53840a0643f28f033443, type: 3}
+    - {fileID: 2800000, guid: 06bf58e665bb0884db4e41fc79ab4282, type: 3}
+    - {fileID: 2800000, guid: 445bcac3d2877ff4398a47e2fcab3050, type: 3}
+    - {fileID: 2800000, guid: f1f9a1aea64cfe84c9ace10bab9dff7c, type: 3}
+    - {fileID: 2800000, guid: 0d085128c9c94294ba54e49f4ba25ed4, type: 3}
+    - {fileID: 2800000, guid: 8e698c188573a43439f4f31e6e98f77d, type: 3}
+    - {fileID: 2800000, guid: b8bef92f756d6e2478f834cc1cea30d6, type: 3}
+    - {fileID: 2800000, guid: 06e163043c249c54bb773d7a5fea7fd2, type: 3}
+    - {fileID: 2800000, guid: 2a97b7ec27d9f374592fa2b90374ae81, type: 3}
+    - {fileID: 2800000, guid: 099884ee2e3bdeb42981d9d7c9ad386b, type: 3}
+    - {fileID: 2800000, guid: ad1920e7644ba5c4eb45d11b7f4b9b08, type: 3}
+    - {fileID: 2800000, guid: 4b5bc3071589d594ea62f39438368573, type: 3}
+    - {fileID: 2800000, guid: 0defd86f33161e94e934f3038f27e11b, type: 3}
+    - {fileID: 2800000, guid: 780c18a198662244f8be4835db55220b, type: 3}
+    - {fileID: 2800000, guid: 91994bc4067e9334eb9088bf2e016632, type: 3}
+    - {fileID: 2800000, guid: 3133911d8ed911e4caef462f425b2da8, type: 3}
+    - {fileID: 2800000, guid: 35e42e594bf226345a7d9d8159184c18, type: 3}
+    - {fileID: 2800000, guid: 3b727edcd0295084fbe0aafea70cce97, type: 3}
+    - {fileID: 2800000, guid: 82c62faabeaafe049874994bf2eed81d, type: 3}
+    - {fileID: 2800000, guid: 0e658c4300751764288d8da0a7d79641, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 42e98240c96665f468567bafa57d4abb, type: 3}
+  - {fileID: 21300000, guid: 25137da0a69b6234aa9442d51017f2fa, type: 3}
+  - {fileID: 21300000, guid: 780c18a198662244f8be4835db55220b, type: 3}
+  - {fileID: 21300000, guid: 0e658c4300751764288d8da0a7d79641, type: 3}
+  - {fileID: 21300000, guid: 6bc9475392bcc44408da9d744871c1ee, type: 3}
+  - {fileID: 21300000, guid: d2e685a3450ad2a4eb49b6c41911bddd, type: 3}
+  - {fileID: 21300000, guid: 445bcac3d2877ff4398a47e2fcab3050, type: 3}
+  - {fileID: 21300000, guid: 06e163043c249c54bb773d7a5fea7fd2, type: 3}
+  - {fileID: 21300000, guid: 91994bc4067e9334eb9088bf2e016632, type: 3}
+  - {fileID: 21300000, guid: 5f1e5505a975e2044b42f7ccbfb1132a, type: 3}
+  - {fileID: 21300000, guid: dfd691a5daac20046a0e68dbaa036da4, type: 3}
+  - {fileID: 21300000, guid: 54288926f44a7f245932b8e64674c3fc, type: 3}
+  - {fileID: 21300000, guid: 06bf58e665bb0884db4e41fc79ab4282, type: 3}
+  - {fileID: 21300000, guid: 4b5bc3071589d594ea62f39438368573, type: 3}
+  - {fileID: 21300000, guid: 27bf8a47da36db2468643af74c5375e5, type: 3}
+  - {fileID: 21300000, guid: ad1920e7644ba5c4eb45d11b7f4b9b08, type: 3}
+  - {fileID: 21300000, guid: 8e698c188573a43439f4f31e6e98f77d, type: 3}
+  - {fileID: 21300000, guid: 0d085128c9c94294ba54e49f4ba25ed4, type: 3}
+  - {fileID: 21300000, guid: 35e42e594bf226345a7d9d8159184c18, type: 3}
+  - {fileID: 21300000, guid: 04f2789a857111348a22f1774542b05e, type: 3}
+  - {fileID: 21300000, guid: 82c62faabeaafe049874994bf2eed81d, type: 3}
+  - {fileID: 21300000, guid: 1cfa54cc882da1547a27d72475e09fab, type: 3}
+  - {fileID: 21300000, guid: 3b727edcd0295084fbe0aafea70cce97, type: 3}
+  - {fileID: 21300000, guid: 2a97b7ec27d9f374592fa2b90374ae81, type: 3}
+  - {fileID: 21300000, guid: 3133911d8ed911e4caef462f425b2da8, type: 3}
+  - {fileID: 21300000, guid: d2a6d2bd2004de04db023542bbbaa8e1, type: 3}
+  - {fileID: 21300000, guid: 0a4535ddcb2f53840a0643f28f033443, type: 3}
+  - {fileID: 21300000, guid: f1f9a1aea64cfe84c9ace10bab9dff7c, type: 3}
+  - {fileID: 21300000, guid: 099884ee2e3bdeb42981d9d7c9ad386b, type: 3}
+  - {fileID: 21300000, guid: b8bef92f756d6e2478f834cc1cea30d6, type: 3}
+  - {fileID: 21300000, guid: 0defd86f33161e94e934f3038f27e11b, type: 3}
+  - {fileID: 21300000, guid: 9287709f2021f2646a233906aecaf9de, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Component_Box
+  - Component_Box1
+  - small_roof
+  - bonfire
+  - Component_Box2
+  - Effect_Barrel
+  - Chest_Animation4
+  - Barrel_Component_2
+  - small_chimney
+  - Component_Box3
+  - Barrel
+  - Hut
+  - Chest_Animation3
+  - tent_1
+  - Plump
+  - Barrel_Component_5
+  - Chest_Animation7
+  - Chest_Animation6
+  - stone
+  - well
+  - chimney
+  - Effect_Box
+  - big_stone
+  - Barrel_Component_3
+  - small_bonfire
+  - Box
+  - Chest_Animation2
+  - Chest_Animation5
+  - Barrel_Component_4
+  - Barrel_Component_1
+  - tent
+  - Chest_Animation1
+  m_RenderDataMap: {}
+  m_Tag: Structure_Atlas
+  m_IsVariant: 0

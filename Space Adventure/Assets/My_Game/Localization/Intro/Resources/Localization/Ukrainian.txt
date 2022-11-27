@@ -1,0 +1,8 @@
+﻿gameoverr	Кінец	Гри
+replayy	Переграти
+meinmenu	Головне	Меню
+continuee	Продовжити
+playgame	Почати	Гру
+exitt	Вийти
+tutoriall	Туторіал
+dontshow	Не	показувати	більше

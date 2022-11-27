@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Button_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 093ae118538e36e4487630b93cc26cd3, type: 3}
+    - {fileID: 2800000, guid: 86f39dec988b1a94a9b83cd8f2970380, type: 3}
+    - {fileID: 2800000, guid: eb0236431cb22d345b4c295e799e7432, type: 3}
+    - {fileID: 2800000, guid: 222cf1d6d984ee34c9e20a2eeab679ec, type: 3}
+    - {fileID: 2800000, guid: e06d84ed4e786d3409dca4ac64d67869, type: 3}
+    - {fileID: 2800000, guid: 6e6b4908311805242820c59183830135, type: 3}
+    - {fileID: 2800000, guid: 58de61edfaa7b4142891557e028d3d41, type: 3}
+    - {fileID: 2800000, guid: 34385e2139a71cf438e9b978ab3b5b3f, type: 3}
+    - {fileID: 2800000, guid: 9bfd3716feebd364589d99f76958a83c, type: 3}
+    - {fileID: 2800000, guid: 3ce171d1dce7eb240a51bddbc0e0cc65, type: 3}
+    - {fileID: 2800000, guid: cfe844ae272d16e448784ae4fb903896, type: 3}
+    - {fileID: 2800000, guid: c6d71d379bd37664dbceed062070d28f, type: 3}
+    - {fileID: 2800000, guid: 2c16d3585d6894447876be7756507cc2, type: 3}
+    - {fileID: 2800000, guid: bb157dddf3d70aa41b8ce1067389ca47, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 34385e2139a71cf438e9b978ab3b5b3f, type: 3}
+  - {fileID: 21300000, guid: 3ce171d1dce7eb240a51bddbc0e0cc65, type: 3}
+  - {fileID: 21300000, guid: eb0236431cb22d345b4c295e799e7432, type: 3}
+  - {fileID: 21300000, guid: 9bfd3716feebd364589d99f76958a83c, type: 3}
+  - {fileID: 21300000, guid: 222cf1d6d984ee34c9e20a2eeab679ec, type: 3}
+  - {fileID: 21300000, guid: c6d71d379bd37664dbceed062070d28f, type: 3}
+  - {fileID: 21300000, guid: 6e6b4908311805242820c59183830135, type: 3}
+  - {fileID: 21300000, guid: 093ae118538e36e4487630b93cc26cd3, type: 3}
+  - {fileID: 21300000, guid: 2c16d3585d6894447876be7756507cc2, type: 3}
+  - {fileID: 21300000, guid: 86f39dec988b1a94a9b83cd8f2970380, type: 3}
+  - {fileID: 21300000, guid: bb157dddf3d70aa41b8ce1067389ca47, type: 3}
+  - {fileID: 21300000, guid: 58de61edfaa7b4142891557e028d3d41, type: 3}
+  - {fileID: 21300000, guid: e06d84ed4e786d3409dca4ac64d67869, type: 3}
+  - {fileID: 21300000, guid: cfe844ae272d16e448784ae4fb903896, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Button_Russian
+  - Button_Exit_Tutorial
+  - sound_off
+  - Button_Language
+  - sound_on
+  - Button_On
+  - Button_English
+  - button
+  - Button_Switch
+  - pause
+  - Header 1
+  - Button_Ukraine
+  - Dead
+  - Button_Off
+  m_RenderDataMap: {}
+  m_Tag: Button_Atlas
+  m_IsVariant: 0

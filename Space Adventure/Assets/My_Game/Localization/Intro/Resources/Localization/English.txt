@@ -1,0 +1,8 @@
+gameoverr	Game	over
+replayy	RePlay
+meinmenu	Mein	Menu
+continuee	Continue
+playgame	Play	Game
+exitt	Exit
+tutoriall	Tutorial
+dontshow	Don't	show	again
