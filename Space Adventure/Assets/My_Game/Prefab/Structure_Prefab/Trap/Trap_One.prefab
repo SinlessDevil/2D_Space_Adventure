@@ -43,7 +43,7 @@ SortingGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6225317808666112421}
   m_Enabled: 1
-  m_SortingLayerID: 713073693
+  m_SortingLayerID: 219496877
   m_SortingLayer: 2
   m_SortingOrder: 1
 --- !u!61 &6225317808666112423
@@ -156,7 +156,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 713073693
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 17ec9f4bc55b4f74984541cf42caa547, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

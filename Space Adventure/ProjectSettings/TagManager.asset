@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CheckTrap
+  - Enemy_Barrel
+  - Enemy_Humanoid
+  - Enemy_Boss
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -40,4 +45,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 1710648059
+    locked: 0
+  - name: Ground
+    uniqueID: 2882964229
+    locked: 0
+  - name: Player
+    uniqueID: 1292627395
+    locked: 0
+  - name: Enemy
+    uniqueID: 1144599621
+    locked: 0
+  - name: Environment
+    uniqueID: 219496877
+    locked: 0
+  - name: UI
+    uniqueID: 3058563081
     locked: 0
